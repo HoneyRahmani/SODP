@@ -1,2 +1,2 @@
 # SODP
-Object detection
+Object detection- Pytorch
