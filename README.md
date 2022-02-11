@@ -5,7 +5,7 @@
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
 >   * [Installation](#Installation)
->   * [Example](#Example)
+>   * [Examples](#Example)
 
 # Single Object Detection - Pytorch
 ## About the Project
@@ -51,7 +51,7 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
     •	conda install pytorch torchvision cudatoolkit=coda version -c pytorch
     •	conda install -c anaconda seaborn
 
-## Example
+## Examples
 
 ![2](https://user-images.githubusercontent.com/75105778/153650062-79c6b907-9b35-4660-b168-ab4e2e700447.png)
 
