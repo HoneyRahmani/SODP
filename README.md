@@ -1,5 +1,12 @@
 
 ## Table of Content
+> * [Single Object Detection - Pytorch](# Single Object Detection - Pytorche)
+>   * [About the Project](# About the Project)
+>   * [About Database](# About Databases)
+>   * [Built with](# Built with)
+>   * [Installation](# Installation)
+>   * [Example](# Example)
+
 # Single Object Detection - Pytorch
 ## About the Project
 
@@ -22,7 +29,7 @@ xc, yc: The coordinates of the centroid of the bounding box
 In this project, width and hieght is fixed to reduce problem.Thus, task is predicting a bounding box using two number.
 
 
-![recipe](https://user-images.githubusercontent.com/75105778/153648116-60cf980e-8fc8-44da-838c-7a958a5969f2.jpg)
+![recipe](https://user-images.githubusercontent.com/75105778/153649787-46a34ba4-83b7-4a1f-9e9f-87babf9a3d95.jpg)
 
 
 ## About Database
@@ -35,7 +42,7 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
 * Pytorch
 * seaborn
 * Model is ResNet…
-	![sodModel](https://user-images.githubusercontent.com/75105778/153648049-92267160-f4d0-46bb-9b67-4b40a695cc89.jpg)
+	![sodModel](https://user-images.githubusercontent.com/75105778/153649873-cc477191-136a-4265-95e5-6524c8a0e5da.jpg)
 * smoothed-L1 Loss function.
 	For mor informations: https://pytorch.org/docs/stable/nn.html#smoothl1loss
 * Intersection over Union (IOU) performance metric.
@@ -46,11 +53,12 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
 
 ## Example
 
-![2](https://user-images.githubusercontent.com/75105778/153647985-bb74aa61-f4fc-483d-b613-f93a9c3577a7.png)
+![2](https://user-images.githubusercontent.com/75105778/153650062-79c6b907-9b35-4660-b168-ab4e2e700447.png)
 
-![3](https://user-images.githubusercontent.com/75105778/153647984-4f13f00f-e40b-4a1a-9be3-94c9fbbf373e.png)
-
+![3](https://user-images.githubusercontent.com/75105778/153650081-2191b32b-3e98-417e-9b64-fde2c29fbd6b.png)
 
 Location is predicted by Model
 
-![4-deploy](https://user-images.githubusercontent.com/75105778/153647555-18339382-58e4-45ba-ae4f-bda5e7423138.png)
+![4-deploy](https://user-images.githubusercontent.com/75105778/153650161-2f8b73f0-0069-4149-b526-5c81cf83f455.png)
+
+
