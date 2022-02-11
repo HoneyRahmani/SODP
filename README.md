@@ -49,4 +49,5 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
 
 ![Example 2](https://pasteboard.co/B12kNjEQDpXk.png)
 
-![Location is predicted by Model](https://pasteboard.co/6PBDADJmPECp.png)
+
+![4-deploy](https://user-images.githubusercontent.com/75105778/153647555-18339382-58e4-45ba-ae4f-bda5e7423138.png)
