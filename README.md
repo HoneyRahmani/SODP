@@ -21,6 +21,7 @@ xc, yc: The coordinates of the centroid of the bounding box
 
 In this project, width and hieght is fixed to reduce problem.Thus, task is predicting a bounding box using two number.
 
+
 ![Steps](https://pasteboard.co/IGe7cI2utgOH.jpg)
 
 ## About Database
@@ -45,6 +46,7 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
 ## Example
 
 ![Example 1](https://pasteboard.co/icoFzEmBhZgG.png)
+
 ![Example 2](https://pasteboard.co/B12kNjEQDpXk.png)
 
 ![Location is predicted by Model](https://pasteboard.co/6PBDADJmPECp.png)
