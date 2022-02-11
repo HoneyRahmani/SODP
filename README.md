@@ -7,7 +7,7 @@
 >   * [Installation](#Installation)
 >   * [Examples](#Example)
 
-# Single Object Detection - Pytorch
+# Single Object Detection - Fovea Location Detection - Pytorch
 ## About the Project
 
 In Single Object Detection, the goal is locating only one object in a given image.
