@@ -22,7 +22,8 @@ xc, yc: The coordinates of the centroid of the bounding box
 In this project, width and hieght is fixed to reduce problem.Thus, task is predicting a bounding box using two number.
 
 
-![Steps](https://pasteboard.co/IGe7cI2utgOH.jpg)
+![recipe](https://user-images.githubusercontent.com/75105778/153648116-60cf980e-8fc8-44da-838c-7a958a5969f2.jpg)
+
 
 ## About Database
 
@@ -34,7 +35,7 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
 * Pytorch
 * seaborn
 * Model is ResNet…
-	![Model](https://pasteboard.co/f9l2o2b1078N.jpg)
+	![sodModel](https://user-images.githubusercontent.com/75105778/153648049-92267160-f4d0-46bb-9b67-4b40a695cc89.jpg)
 * smoothed-L1 Loss function.
 	For mor informations: https://pytorch.org/docs/stable/nn.html#smoothl1loss
 * Intersection over Union (IOU) performance metric.
@@ -45,9 +46,11 @@ Database is included two folder, AMD with 89 image and Non-AMD with 311 image, a
 
 ## Example
 
-![Example 1](https://pasteboard.co/icoFzEmBhZgG.png)
+![2](https://user-images.githubusercontent.com/75105778/153647985-bb74aa61-f4fc-483d-b613-f93a9c3577a7.png)
 
-![Example 2](https://pasteboard.co/B12kNjEQDpXk.png)
+![3](https://user-images.githubusercontent.com/75105778/153647984-4f13f00f-e40b-4a1a-9be3-94c9fbbf373e.png)
 
+
+Location is predicted by Model
 
 ![4-deploy](https://user-images.githubusercontent.com/75105778/153647555-18339382-58e4-45ba-ae4f-bda5e7423138.png)
