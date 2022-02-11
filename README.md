@@ -10,9 +10,9 @@
 # Single Object Detection - Pytorch
 ## About the Project
 
-In Single Object Detection,the goal is locating only one object in given image.
-This project focus on developing deep learning model to using Pytorch to detect single object.The location of object will show by a bounding box.
-Bounding box can be depected with four numbers:
+In Single Object Detection, the goal is locating only one object in a given image.
+This project focuses on developing deep learning model using Pytorch to detect single object. The location of the object will shown by a bounding box.
+Bounding box can be depicted with four numbers:
 
     - [x0, y0, w, h]
     - [x0, y0, x1, y1]
@@ -36,7 +36,7 @@ In this project, width and hieght is fixed to reduce problem.Thus, task is predi
 
 Find dataset in https://amd.grand-challenge.org 
 
-Database is included two folder, AMD with 89 image and Non-AMD with 311 image, and a Excel file named Fovea_location.xlsx that contains the centroid locations of fovea in image of AMD and None-AMD folders. 
+The database is included two folders, AMD with 89 images and Non-AMD with 311 images, and an Excel file named Fovea_location.xlsx that contains the centroid locations of fovea in images of AMD and None-AMD folders. 
 
 ## Built with
 * Pytorch
