@@ -1,11 +1,11 @@
 
 ## Table of Content
-> * [Single Object Detection - Pytorch](# Single Object Detection - Pytorche)
->   * [About the Project](# About the Project)
->   * [About Database](# About Databases)
->   * [Built with](# Built with)
->   * [Installation](# Installation)
->   * [Example](# Example)
+> * [Single Object Detection - Pytorch](#Single Object Detection - Pytorche)
+>   * [About the Project](#About the Project)
+>   * [About Database](#About Databases)
+>   * [Built with](#Built with)
+>   * [Installation](#Installation)
+>   * [Example](#Example)
 
 # Single Object Detection - Pytorch
 ## About the Project
